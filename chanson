@@ -1,0 +1,3 @@
+
+http://www.the5fire.com/auto-deploy-tool-for-python-app.html:
+没有可视化界面，服务器只需要安装好Python就可以，服务器之间需要添加ssh_key。出错就会停止（针对一台服务器上的操作）
